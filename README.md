@@ -22,8 +22,8 @@ Making research software Findable, Accessible, Interoperable, Reusable (FAIR), i
 
 ## Meeting material
 
-- [ISMBECCB2023_1638_Patel_poster.pdf](ISMBECCB2023_1638_Patel_poster.pdf): pdf of our poster
-- [ISMBECCB2023_1638_Patel_talk.pdf](ISMBECCB2023_1638_Patel_talk.pdf): slides of our talk
+- [ISMB2024_1523_Portillo_poster.pdf](ISMB2024_1523_Portillo_poster.pdf): pdf of our poster
+- [ISMB2024_1272_Patel_talk.pdf](ISMB2024_1272_Patel_talk.pdf): slides of our talk
 
 ## Resources
 
