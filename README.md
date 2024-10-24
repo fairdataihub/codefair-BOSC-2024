@@ -22,8 +22,8 @@ Making research software Findable, Accessible, Interoperable, Reusable (FAIR), i
 
 ## Meeting material
 
-- [ISMB2024_1523_Portillo_poster.pdf](ISMB2024_1523_Portillo_poster.pdf): pdf of our poster
-- [ISMB2024_1272_Patel_talk.pdf](ISMB2024_1272_Patel_talk.pdf): slides of our talk
+- [ISMB2024_1523_Portillo_poster.pdf](ISMB2024_1523_Portillo_poster.pdf): pdf of our poster. Also available on F1000Research https://doi.org/10.7490/f1000research.1119823.1
+- [ISMB2024_1272_Patel_talk.pdf](ISMB2024_1272_Patel_talk.pdf): slides of our talk. Also available on F1000Research https://doi.org/10.7490/f1000research.1119824.1
 
 ## Resources
 
